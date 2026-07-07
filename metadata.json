@@ -1,0 +1,6 @@
+{
+  "name": "ESD Outlier Test",
+  "description": "A generalized ESD (Extreme Studentized Deviate) test tool for outlier detection in scientific, horse racing, and custom datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
